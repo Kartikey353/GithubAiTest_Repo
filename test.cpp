@@ -4,6 +4,5 @@ int main(){
     cout<<"you are in test.cpp"<<endl; 
     int a,b;
     cin>>a>>b;
-    cout<<a+b;
     return 0;
 }
